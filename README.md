@@ -1,4 +1,4 @@
-<img ![bannergithub](https://github.com/user-attachments/assets/8254ed29-3dde-4296-8703-a8a959fef7fd)>
+![bannergithub](https://github.com/user-attachments/assets/8254ed29-3dde-4296-8703-a8a959fef7fd)
 
 
 - Olá, meu nome é Plínio
